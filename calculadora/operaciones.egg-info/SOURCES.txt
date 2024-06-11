@@ -1,0 +1,16 @@
+setup.py
+operaciones/__init__.py
+operaciones.egg-info/PKG-INFO
+operaciones.egg-info/SOURCES.txt
+operaciones.egg-info/dependency_links.txt
+operaciones.egg-info/top_level.txt
+operaciones/dividir/__init__.py
+operaciones/dividir/divide.py
+operaciones/entrarnumero/__init__.py
+operaciones/entrarnumero/entrarnum.py
+operaciones/multiplicar/__init__.py
+operaciones/multiplicar/multiplica.py
+operaciones/restar/__init__.py
+operaciones/restar/resta.py
+operaciones/sumar/__init__.py
+operaciones/sumar/suma.py
